@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @notsage817
 - 👀 I’m interested in Data Science and Coffee. 
-- 🌱 I’m currently learning as a student of MCIT at Upenn
-- 💞️ I’m looking to collaborate on discussing technical stuff
+- 🌱 I just graduated from Upenn with a Master degree of Computer and Information Technology
 - 📫 Reach me here 👉 haojx333@gmail.com 
 
 <!---
